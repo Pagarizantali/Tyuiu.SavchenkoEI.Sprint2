@@ -32,4 +32,9 @@
     <Project Path="Tyuiu.SavchenkoEI.Sprint2.Task5.V2.Test/Tyuiu.SavchenkoEI.Sprint2.Task5.V2.Test.csproj" />
     <Project Path="Tyuiu.SavchenkoEI.Sprint2.Task5.V2/Tyuiu.SavchenkoEI.Sprint2.Task5.V2.csproj" />
   </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.SavchenkoEI.Sprint2.Task6.V11.Lib/Tyuiu.SavchenkoEI.Sprint2.Task6.V11.Lib.csproj" />
+    <Project Path="Tyuiu.SavchenkoEI.Sprint2.Task6.V11.main/Tyuiu.SavchenkoEI.Sprint2.Task6.V11.main.csproj" />
+    <Project Path="Tyuiu.SavchenkoEI.Sprint2.Task6.V11/Tyuiu.SavchenkoEI.Sprint2.Task6.V11.csproj" />
+  </Folder>
 </Solution>
