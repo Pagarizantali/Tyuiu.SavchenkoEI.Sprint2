@@ -35,6 +35,7 @@
   <Folder Name="/Task6/">
     <Project Path="Tyuiu.SavchenkoEI.Sprint2.Task6.V11.Lib/Tyuiu.SavchenkoEI.Sprint2.Task6.V11.Lib.csproj" />
     <Project Path="Tyuiu.SavchenkoEI.Sprint2.Task6.V11.main/Tyuiu.SavchenkoEI.Sprint2.Task6.V11.main.csproj" />
+    <Project Path="Tyuiu.SavchenkoEI.Sprint2.Task6.V11.Test/Tyuiu.SavchenkoEI.Sprint2.Task6.V11.Test.csproj" />
     <Project Path="Tyuiu.SavchenkoEI.Sprint2.Task6.V11/Tyuiu.SavchenkoEI.Sprint2.Task6.V11.csproj" />
   </Folder>
 </Solution>
